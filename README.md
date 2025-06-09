@@ -89,6 +89,6 @@ For funding, collaboration, or press inquiries:
 ---
 
 ## 🪪 License
-
+Authored by Clancy Wells with AI-assisted drafting support (ChatGPT/Monday 8.0); all creative direction, concept development, and editorial control remain fully human-led.
 © 2025 Clancy Wells. All rights reserved.  
 This repository and its contents are protected. For licensing or usage inquiries, contact the author.
