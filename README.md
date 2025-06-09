@@ -53,6 +53,15 @@ Examples of applied systems and outputs:
 
 ---
 
+## 💸 Featured Project
+
+🖋️ [Buy GonzoGirlScript on Gumroad](https://clancyprotocol.gumroad.com/l/emedp)  
+📂 [Download GonzoGirlScript (.otf)](./GonzoGirlScript_OriginalType.otf)  
+📄 [View License (.docx)](./GonzoGirlScript_Font_License.docx)  
+🖼️ ![Font Preview](./GonzoGirlScript_QuotePreview_Rotated.png)
+
+**GonzoGirlScript** is a digital font built from Clancy’s original handwriting — a raw, expressive typeface designed for creators, educators, and storytellers. It's part of a growing catalog of micro-products powered by The Clancy Protocol.
+
 ## 📌 Project Status
 
 | Component | Status |
