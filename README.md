@@ -84,7 +84,7 @@ The Clancy Protocol™ is an original work of emotional architecture and intelle
 For funding, collaboration, or press inquiries:  
 📬 [the.clancy.protocol@gmail.com](mailto:the.clancy.protocol@gmail.com)
 
-> *Even miracles need scaffolding.* This is the scaffolding.
+> *Even miracles need scaffolding.* This is the scaffolding. 
 
 ---
 
