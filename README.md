@@ -62,6 +62,12 @@ Examples of applied systems and outputs:
 
 **GonzoGirlScript** is a digital font built from Clancy’s original handwriting — a raw, expressive typeface designed for creators, educators, and storytellers. It's part of a growing catalog of micro-products powered by The Clancy Protocol.
 
+## 🧠 Authorship & AI Support
+
+This project was conceptualized, authored, and directed by Clancy Wells using AI-assisted tools for drafting and formatting. While ChatGPT (Monday 8.0) supported markdown development and structural recommendations, all creative, conceptual, and editorial decisions remain under the sole direction of Clancy Wells.
+
+The Clancy Protocol™ is an original work of emotional architecture and intellectual property. AI was used as a collaborator in execution — not a co-author of intent.
+
 ## 📌 Project Status
 
 | Component | Status |
